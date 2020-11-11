@@ -2,9 +2,10 @@
 Actividad 1.  
 
 *1. Instalar MongoDB en ambiente local.*
-SO: ios
+SO: ios. 
 a. Terminal poner el comando:
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)". 
+
 b. Seguir los siguientes pasos https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/. 
 
 *2. Conectarse a MongoDB vía CLI.*    
