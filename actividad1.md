@@ -1,4 +1,6 @@
-## Clase 1:
+## Clase 1:  
+Actividad 1.  
+
 *1. Instalar MongoDB en ambiente local.*
 SO: ios
 a. Terminal poner el comando:
