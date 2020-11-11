@@ -1,6 +1,6 @@
 ## Clase 3:
 
-Actividad 3
+Actividad 3.  
 *1. Utilizar la misma base de datos de películas e insertar varias películas con distinto contenido.*
 - simil al ejercicio de actividad 2
 
