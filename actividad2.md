@@ -1,4 +1,7 @@
 ## Clase 2:
+
+Actividad 2.   
+
 *1. Crear una nueva base de datos de un sistema de streaming de video (ej. Netflix, Flow, Amazon Prime) que permita almacenar movies.*
 - use  streamingNetflix
 
