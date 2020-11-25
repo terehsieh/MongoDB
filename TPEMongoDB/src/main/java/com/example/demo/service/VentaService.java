@@ -31,7 +31,7 @@ public class VentaService {
 	}
 	
 	//Read
-		public Optional<Venta> getByNombre(String id) {
+		public Optional<Venta> getById(String id) {
 			return ventaRepository.findById(id);
 		}
 	
